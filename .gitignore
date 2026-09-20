@@ -12,3 +12,8 @@ shot*.mjs
 
 # local review build (base=./ for file:// preview)
 dist-preview
+
+# Ephemeral git worktrees created by Claude Code agents. Transient tooling
+# state, often a checkout of a different repository entirely, and sometimes
+# in active use by a running agent — never repository content.
+.claude/worktrees/
