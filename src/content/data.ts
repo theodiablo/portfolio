@@ -1,7 +1,7 @@
 import type { Stat, Job, EarlierWork, LeadershipCard } from './types'
 
 export const LINKS = {
-  email: 'theo.camboulive.dev@gmail.com',
+  email: 'theo@camboulive.solutions',
   github: 'https://github.com/theodiablo',
   linkedin: 'https://www.linkedin.com/in/théo-camboulive',
   runningApp: 'https://run.camboulive.solutions',
