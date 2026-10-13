@@ -15,8 +15,8 @@ export const STRINGS = {
     es: 'Engineering manager que sigue programando.',
   },
   'hero.lede': {
-    en: 'I lead two squads at Ecologi (B Corp), where I brought AI-assisted development into the team. 11+ years in high-growth SaaS, from a platform service at King serving 200M+ users to a small AI running coach I built and run myself.',
-    es: 'Lidero dos equipos en Ecologi (B Corp), donde introduje el desarrollo asistido por IA en el equipo. Más de 11 años en SaaS de alto crecimiento, desde un servicio de plataforma en King que servía a más de 200M de usuarios hasta un pequeño entrenador de running con IA que construí y opero yo mismo.',
+    en: 'Until July 2026 I led two squads at Ecologi (B Corp), where I brought AI-assisted development into the team. 12 years in software, from a platform service at King serving 200M+ users to a small AI running coach I built and run myself.',
+    es: 'Hasta julio de 2026 lideré dos equipos en Ecologi (B Corp), donde introduje el desarrollo asistido por IA en el equipo. 12 años en software, desde un servicio de plataforma en King que servía a más de 200M de usuarios hasta un pequeño entrenador de running con IA que construí y opero yo mismo.',
   },
   'hero.location': { en: 'San Sebastián, Spain', es: 'San Sebastián, España' },
   'hero.ctaWork': { en: 'See the work', es: 'Ver el trabajo' },
@@ -58,15 +58,15 @@ export const STRINGS = {
 
   'exp.title': { en: 'Experience', es: 'Experiencia' },
   'exp.subtitle': {
-    en: '11+ years across engineering leadership and hands-on IC work.',
-    es: 'Más de 11 años entre liderazgo de ingeniería y trabajo técnico hands-on.',
+    en: '12 years across engineering leadership and hands-on IC work.',
+    es: '12 años entre liderazgo de ingeniería y trabajo técnico hands-on.',
   },
 
   'ai.eyebrow': { en: 'How I work', es: 'Cómo trabajo' },
   'ai.title': { en: 'Building AI you can trust', es: 'Construir IA en la que confiar' },
   'ai.p1': {
-    en: 'I lead AI adoption at Ecologi as the org’s AI evangelist: I brought AI-assisted development into everyday coding, code review and testing, ran hands-on upskilling for every engineer, and turned it into a measurable 2–3× improvement in delivery speed with a leaner team.',
-    es: 'Lidero la adopción de IA en Ecologi como evangelista de IA de la organización: llevé el desarrollo asistido por IA al día a día de la programación, la revisión de código y el testing, formé personalmente a cada ingeniero y lo convertí en una mejora medible de 2–3× en la velocidad de entrega con un equipo más reducido.',
+    en: 'I led AI adoption at Ecologi: I brought AI-assisted development into technical design, code generation and code review, and built momentum rather than mandating it, with AI fireside chats and shared channels where engineers posted their wins. The team delivered 2–3× faster with a leaner headcount.',
+    es: 'Lideré la adopción de IA en Ecologi: llevé el desarrollo asistido por IA al diseño técnico, la generación de código y la revisión de código, e impulsé su adopción sin imponerla, con charlas sobre IA y canales compartidos donde los ingenieros publicaban sus logros. El equipo entregó 2–3× más rápido con una plantilla más reducida.',
   },
   'ai.p2': {
     en: 'But adoption is the easy half. The harder, more interesting problem is making an LLM safe to trust with real user decisions. That’s what Running Coach is really about: bounded tools, a validator as the trust boundary, and a safety-gated eval harness that treats every production interaction as a testable, replayable artifact. AI that ships is AI you can show is behaving.',

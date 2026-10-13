@@ -27,8 +27,8 @@ export const LEADERSHIP: LeadershipCard[] = [
     label: { en: 'Team', es: 'Equipo' },
     lead: { en: '9 engineers, 2 remote squads', es: '9 ingenieros, 2 equipos en remoto' },
     body: {
-      en: 'I lead two cross-functional teams at a remote-first B Corp, owning the full delivery loop from grooming and cadence to unblocking and technical-debt planning.',
-      es: 'Lidero dos equipos multidisciplinares en una B Corp remota, con responsabilidad sobre todo el ciclo de entrega: desde el refinamiento y la cadencia hasta el desbloqueo y la planificación de deuda técnica.',
+      en: 'I led two cross-functional teams at a remote-first B Corp, owning the full delivery loop from grooming and cadence to unblocking and technical-debt planning.',
+      es: 'Lideré dos equipos multidisciplinares en una B Corp remota, con responsabilidad sobre todo el ciclo de entrega: desde el refinamiento y la cadencia hasta el desbloqueo y la planificación de deuda técnica.',
     },
   },
   {
@@ -43,8 +43,8 @@ export const LEADERSHIP: LeadershipCard[] = [
     label: { en: 'Budget', es: 'Presupuesto' },
     lead: { en: '+€10,000 saved a year', es: '+10.000 € ahorrados al año' },
     body: {
-      en: 'I own the engineering budget and cut and consolidated redundant tooling for real annual savings. I also run the R&D Tax Credits process for the whole Product & Engineering team, claiming back +€10,000 a year and lowering the team’s overall costs.',
-      es: 'Gestiono el presupuesto de ingeniería y recorté y unifiqué herramientas redundantes con un ahorro anual real. También llevo el proceso de R&D Tax Credits para todo el equipo de Producto & Ingeniería, recuperando +10.000 € al año y reduciendo los costes globales del equipo.',
+      en: 'I owned the engineering budget and cut and consolidated redundant tooling for real annual savings. I also ran the R&D Tax Credits process for the whole Product & Engineering team, claiming back +€10,000 a year and lowering the team’s overall costs.',
+      es: 'Gestioné el presupuesto de ingeniería y recorté y unifiqué herramientas redundantes con un ahorro anual real. También llevé el proceso de R&D Tax Credits para todo el equipo de Producto & Ingeniería, recuperando +10.000 € al año y reduciendo los costes globales del equipo.',
     },
   },
   {
@@ -92,23 +92,19 @@ export const EXPERIENCE: Job[] = [
   {
     company: 'Ecologi',
     location: { en: 'B Corp · Remote', es: 'B Corp · Remoto' },
-    period: 'Feb 2022 — Present',
+    period: 'Feb 2022 — Jul 2026',
     roles: [
       {
         title: { en: 'Senior Engineering Manager', es: 'Senior Engineering Manager' },
-        period: 'Feb 2025 — Present',
+        period: 'Feb 2025 — Jul 2026',
         bullets: [
           {
-            en: 'Directly manage 9 engineers across two cross-functional squads, owning end-to-end delivery from backend data models and services to user-facing features, partnering closely with Product and Design from problem definition to launch.',
-            es: 'Gestiono directamente a 9 ingenieros en dos equipos multidisciplinares, con responsabilidad total sobre la entrega, desde los modelos de datos y servicios de backend hasta las funcionalidades de cara al usuario, en estrecha colaboración con Producto y Diseño.',
+            en: 'Directly managed 9 engineers across two cross-functional squads, owning end-to-end delivery from backend data models and services to user-facing features, partnering closely with Product and Design from problem definition to launch.',
+            es: 'Gestioné directamente a 9 ingenieros en dos equipos multidisciplinares, con responsabilidad total sobre la entrega, desde los modelos de datos y servicios de backend hasta las funcionalidades de cara al usuario, en estrecha colaboración con Producto y Diseño.',
           },
           {
-            en: 'AI evangelist for the engineering org: introduced AI-assisted development across coding, code review and testing, ran hands-on upskilling for every engineer, and turned it into a 2–3× improvement in delivery speed with a leaner team.',
-            es: 'Evangelista de IA para la organización: introduje el desarrollo asistido por IA en programación, revisión de código y testing, formé personalmente a cada ingeniero y lo convertí en una mejora de 2–3× en la velocidad de entrega con un equipo más reducido.',
-          },
-          {
-            en: 'Rebuilt delivery on one team: monthly PR volume grew from 65 to 266, shipped 74 feature releases, moved from 2 QAs to zero through stronger test automation and AI-assisted review.',
-            es: 'Reconstruí la entrega en un equipo: el volumen mensual de PRs pasó de 65 a 266, se lanzaron 74 releases y se pasó de 2 QAs a cero gracias a una mayor automatización de tests y a la revisión asistida por IA.',
+            en: 'Led the move to AI-assisted development with Claude Code and Codex across technical design, code generation and code review. Built momentum rather than mandating it: AI fireside chats and shared channels where engineers posted wins and use cases. The team delivered 2–3× faster with a leaner headcount.',
+            es: 'Lideré la adopción del desarrollo asistido por IA con Claude Code y Codex en diseño técnico, generación de código y revisión de código. Impulsé la adopción sin imponerla: charlas sobre IA y canales compartidos donde los ingenieros publicaban logros y casos de uso. El equipo entregó 2–3× más rápido con una plantilla más reducida.',
           },
           {
             en: 'Drove CI/CD improvements: reduced build times by 50% and increased pipeline reliability by 90%. Managed the full people cycle: 7 promotions and a 6-month PIP through to resolution.',
@@ -135,8 +131,8 @@ export const EXPERIENCE: Job[] = [
         period: 'Feb 2022 — Jun 2023',
         bullets: [
           {
-            en: 'Designed and built core full-stack features on the Ecologi Zero platform, with a React front-end; took PoCs to live products end-to-end in a TypeScript/Node.js/PostgreSQL stack. Championed test automation and mentored junior engineers.',
-            es: 'Diseñé y construí funcionalidades core full-stack en la plataforma Ecologi Zero, con React en el front-end; llevé PoCs a productos en producción de extremo a extremo con un stack TypeScript/Node.js/PostgreSQL. Impulsé la automatización de tests y mentoricé a ingenieros junior.',
+            en: 'Designed and built core full-stack features on the Ecologi Zero platform, with a React front-end; took PoCs to live products end-to-end across React, GraphQL, TypeScript/Node.js, PlanetScale and MongoDB. Championed test automation and mentored junior engineers.',
+            es: 'Diseñé y construí funcionalidades core full-stack en la plataforma Ecologi Zero, con React en el front-end; llevé PoCs a productos en producción de extremo a extremo con React, GraphQL, TypeScript/Node.js, PlanetScale y MongoDB. Impulsé la automatización de tests y mentoricé a ingenieros junior.',
           },
         ],
       },
@@ -145,11 +141,11 @@ export const EXPERIENCE: Job[] = [
   {
     company: 'Freelance',
     location: { en: 'International clients', es: 'Clientes internacionales' },
-    period: 'May 2017 — Feb 2022',
+    period: 'Sep 2020 — Feb 2022 · May 2017 — Jun 2018',
     roles: [
       {
         title: { en: 'Full-Stack Developer', es: 'Desarrollador Full-Stack' },
-        period: 'May 2017 — Feb 2022',
+        period: 'Sep 2020 — Feb 2022 · May 2017 — Jun 2018',
         bullets: [
           {
             en: 'Delivered backend and full-stack solutions for international clients across Python, Java/Spring, Go, Node.js and Vue/React on Google Cloud Run; owned full system design, architecture and infrastructure.',
@@ -169,8 +165,8 @@ export const EXPERIENCE: Job[] = [
         period: 'Jul 2019 — Sep 2020',
         bullets: [
           {
-            en: 'Maintained a core platform service delivering content and messages to 50M+ daily and 200M+ monthly active users across all King games. Mission-critical, high-availability infrastructure.',
-            es: 'Mantuve un servicio core de la plataforma que entregaba contenido y mensajes a más de 50M de usuarios diarios y 200M mensuales en todos los juegos de King: infraestructura crítica de alta disponibilidad.',
+            en: 'Shipped features, migrations and production incident fixes on Service Layer, King’s core content and messaging platform serving 50M+ daily active users across all games.',
+            es: 'Desarrollé funcionalidades, migraciones y resolución de incidentes en producción en Service Layer, la plataforma core de contenido y mensajería de King, con más de 50M de usuarios activos diarios en todos los juegos.',
           },
         ],
       },
